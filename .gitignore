@@ -1,0 +1,39 @@
+# Backend (Java/Maven)
+sahaay-backend/target/
+sahaay-backend/.mvn/
+sahaay-backend/mvnw
+sahaay-backend/mvnw.cmd
+sahaay-backend/.classpath
+sahaay-backend/.project
+sahaay-backend/.settings/
+
+# Frontend (React/Node)
+sahaay-frontend/node_modules/
+sahaay-frontend/build/
+sahaay-frontend/.env.local
+sahaay-frontend/.env.development.local
+sahaay-frontend/.env.test.local
+sahaay-frontend/.env.production.local
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Environment variables (keep .env.example, ignore .env)
+.env
+
+# Database
+*.db
+*.sqlite
